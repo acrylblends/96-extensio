@@ -1,6 +1,6 @@
 # Extensio
 
-> Concept: A safer home for extensions.
+An extension control plane for finding, installing, updating and reviewing plugin permissions.
 
 An ACRYL Blends blueprint for the **Plugin / Extension Ecosystems** category (`acrylblends.extensio`, category 96 of 100).
 
